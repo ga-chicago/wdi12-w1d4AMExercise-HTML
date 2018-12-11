@@ -1,7 +1,7 @@
 
 Title: HTML Mockup <br>
 Type: Morning Exercise<br>
-Course: wdi-CC2-funky-ducks<br>
+Course: wdi-cc<br>
 Competencies: HTML <br>
 
 
@@ -23,7 +23,7 @@ https://quelchenonsapevi.it/wp-content/uploads/2016/06/0000-3.jpeg
 https://twitter.com/realgrumpycat?lang=en
 
 ## Directions
-Look at the image below and create this webpage using HTML (no styling yet). Write your code in the `index.html` file that is inside your `morning_exercise_html` folder (so that's something like: `~/funky-ducks/06_14_2018_functions_and_scope/morning_exercise_html/index.html`).
+Look at the image below and create this webpage using HTML (no styling yet). Make a `morning_exercise` directory in today's folder and write your code in an `index.html` file that is inside the `morning_exercise` folder.
 
 **IMPORTANT** Make sure to check your work in the browser *as you write your code*. Save and reload. Save and reload. Save and reload. etc.
 
