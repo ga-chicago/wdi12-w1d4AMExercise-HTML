@@ -12,7 +12,7 @@ Competencies: HTML <br>
 
 Let's use some common HTML tags to create a website for Grumpy Cat.
 
-1) Inside your directory for today create a `morning_exercise_html` directory, with a `index.html` file.
+1) Inside your directory for today create a `morning_exercise_html` directory, with a `cat.html` file.
 2) How do I make add the boilerplate needed for an HTML file?
 3) How do I add a title to my file so that you can see the name on the browser tab?
 4) How do I make a heading?
@@ -23,7 +23,7 @@ https://quelchenonsapevi.it/wp-content/uploads/2016/06/0000-3.jpeg
 https://twitter.com/realgrumpycat?lang=en
 
 ## Directions
-Look at the image below and create this webpage using HTML (no styling yet). Make a `morning_exercise` directory in today's folder and write your code in an `index.html` file that is inside the `morning_exercise` folder.
+Look at the image below and create this webpage using HTML (no styling yet). Write your code in an `index.html` file that is inside the `morning_exercise_html` folder.
 
 **IMPORTANT** Make sure to check your work in the browser *as you write your code*. Save and reload. Save and reload. Save and reload. etc.
 
